@@ -2,6 +2,7 @@
   "name": "click",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dodgen92.github.io/Clicky-game/",
   "description": "Click game created with react js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
